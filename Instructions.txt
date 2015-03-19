@@ -1,0 +1,4 @@
+(1) create a windows directory under : www\default\worklight\plugins\org.apache.cordova.device\src
+(2) copy the DeviceProxy.js under : www\default\worklight\plugins\org.apache.cordova.device\src\windows
+(3) Merge/overwrite the changes of cordova.js present under: www\default\worklight
+(4) copy the cordova_plugins_uapp.js under : www\default\worklight
